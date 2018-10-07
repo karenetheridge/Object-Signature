@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Object-Signature-*/
+/Object-Signature-*.tar.gz

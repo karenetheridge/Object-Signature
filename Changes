@@ -1,5 +1,8 @@
 Revision history for Perl extension Object::Signature
 
+{{$NEXT}}
+          - distribution tooling updates
+
 1.07 Thu 24 Mar 2011
 	- Updating to Module::Install::DSL 1.00
 	- Removing the use of prefork as the modules we use are fairly small
