@@ -56,7 +56,7 @@ If the method returns a null string, it indicates that the file should
 be stored with no extension.
 
 If the method return C<undef> (the default value), it indicates no
-preference for the extention the file.
+preference for the extension the file.
 
 =head2 signature_name
 
