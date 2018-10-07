@@ -1,14 +1,12 @@
 package Object::Signature;
 
-use 5.005;
 use strict;
+use warnings;
+
+our $VERSION = '1.07';
+
 use Storable    2.11 ();
 use Digest::MD5 2.00 ();
-
-use vars qw{$VERSION};
-BEGIN {
-	$VERSION = '1.07';
-}
 
 sub signature {
 	local $Storable::canonical = 1;
