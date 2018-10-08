@@ -1,6 +1,6 @@
 Revision history for Perl extension Object::Signature
 
-{{$NEXT}}
+1.08      2018-10-08 00:04:32Z
           - distribution tooling updates
 
 1.07    2011-03-24
