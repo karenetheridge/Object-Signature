@@ -3,7 +3,7 @@ package Object::Signature;
 use strict;
 use warnings;
 
-our $VERSION = '1.08';
+our $VERSION = '1.09';
 
 use Storable    2.11 ();
 use Digest::MD5 2.00 ();
